@@ -13,4 +13,4 @@ Requires you to [get your session cookie](https://www.reddit.com/r/adventofcode/
 
 ## `2022day[day]p[part].lua`
 
-Solutions.
+Solutions. Requires input files saved in the `2022day[day]input` format in the root directory.
